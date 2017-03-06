@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'gothicregular';
+    src: url('engravers-gothic-webfont.eot');
+    src: url('engravers-gothic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('engravers-gothic-webfont.woff2') format('woff2'),
+         url('engravers-gothic-webfont.woff') format('woff'),
+         url('engravers-gothic-webfont.ttf') format('truetype'),
+         url('engravers-gothic-webfont.svg#engravers_gothicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
